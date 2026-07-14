@@ -12,6 +12,11 @@ Email: cogitofallacy@gmail.com
 
 [resume](https://github.com/steve-redka/steve-redka/blob/main/resume.md)
 
+Languages:
+- English (C2)
+- Russian (native)
+- Ukrainian (native)
+
 ## Notable repositories
 
 **Hermes - Cross-Faction Translation** - [addon](https://github.com/steve-redka/Hermes), [data miner](https://github.com/steve-redka/cross-faction-translation-utilities)
