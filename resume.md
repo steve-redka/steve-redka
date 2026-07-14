@@ -1,9 +1,6 @@
----
-name: Stepan Redka
-header:
-  - cogitofallacy@gmail.com
-  - Telegram: https://web.telegram.org/k/#@thirtythreelemons
----
+## Stepan Redka
+- cogitofallacy@gmail.com
+- Telegram: https://web.telegram.org/k/#@thirtythreelemons
 
 Backend developer (Ruby on Rails) with over 4 years of commercial experience in the development of microservices and high-load web services. Specializes in architecture design and refactoring, integrating external APIs, testing (RSpec/Minitest), CI/CD, and performance optimization.
 From 2022 to 2025, while working at Yandex Crowd, actively developed open-source projects in Ruby/Rails and JavaScript (CLI utilities, Rails engines, browser add-ons).
@@ -23,7 +20,7 @@ From 2022 to 2025, while working at Yandex Crowd, actively developed open-source
 
 **Full-stack developer**
 ~ Food expert
-~ 2026 - present
+~ 02.2026 - 07.2026
 - Enterprise Franchise Management Platform
 - Developed and maintained a multi-tenant SaaS platform for franchise management, comprising four independently deployed services: two React 18/TypeScript frontends and two Node.js/Express backends. Designed and implemented tenant-isolated data access patterns to ensure strict data segregation across franchise owners and individual client locations using PostgreSQL, hardening tenant boundaries by closing permission-bypass gaps. Reduced background-job database load by ~60–70% through query batching and parallelized external-API collection.
 - Built and maintained asynchronous background processing pipelines using BullMQ and Redis for tasks including third-party restaurant management system integration (iiko) and automated review aggregation via web scraping (Puppeteer). Integrated AWS services (S3 for file storage, SES for transactional email) and implemented rich text content management using EditorJS across both frontend and backend systems.
